@@ -32,13 +32,13 @@ public class SesionNormal extends JFrame{
         
         //Etiquetas
         iconologo = new JLabel();
-        iconologo.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\practicas\\logo1peq.png"));
+        iconologo.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\NetBeans Projects\\PruebaSwing\\target\\logo1peq.png"));
         iconologo.setBounds(30, 5, 225, 111);
         baseu.add(iconologo);
         iconologo.setVisible(true);
 
         iconousuario = new JLabel();
-        iconousuario.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\practicas\\logousuario.png"));
+        iconousuario.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\NetBeans Projects\\PruebaSwing\\target\\logousuario.png"));
         iconousuario.setBounds(840, 30, 50, 50);
         baseu.add(iconousuario);
         iconousuario.setVisible(true);

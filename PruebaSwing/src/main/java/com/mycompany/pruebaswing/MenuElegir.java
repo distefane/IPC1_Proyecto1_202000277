@@ -33,13 +33,13 @@ public class MenuElegir extends JFrame {
 
         //Logo
         logo = new JLabel();
-        logo.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\practicas\\logo1.png"));
+        logo.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\NetBeans Projects\\PruebaSwing\\target\\logo1.png"));
         logo.setBounds(50, 140, 300, 148);
         panelprincipal.add(logo);
         logo.setVisible(true);
         //Logo usuario
         logousuario = new JLabel();
-        logousuario.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\practicas\\logousuario.png"));
+        logousuario.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\NetBeans Projects\\PruebaSwing\\target\\logousuario.png"));
         logousuario.setBounds(530, 45, 50, 50);
         panelprincipal.add(logousuario);
         logousuario.setVisible(true);

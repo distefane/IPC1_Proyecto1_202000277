@@ -30,7 +30,7 @@ public class Login extends JFrame {
         
         //Etiquetas
         logologin = new JLabel();
-        logologin.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\practicas\\logousuario.png"));
+        logologin.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\NetBeans Projects\\PruebaSwing\\target\\logousuario.png"));
         logologin.setBounds(165, 40, 50, 50);
         panellogin.add(logologin);
         logologin.setVisible(true);

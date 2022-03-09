@@ -43,13 +43,13 @@ public class SesionAdmin extends JFrame {
 
         //Etiquetas
         iconologo = new JLabel();
-        iconologo.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\practicas\\logo1peq.png"));
+        iconologo.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\NetBeans Projects\\PruebaSwing\\target\\logo1peq.png"));
         iconologo.setBounds(30, 20, 225, 111);
         base.add(iconologo);
         iconologo.setVisible(true);
 
         iconousuario = new JLabel();
-        iconousuario.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\practicas\\logousuario.png"));
+        iconousuario.setIcon(new ImageIcon("C:\\Users\\USER\\Desktop\\1S 2022\\IPC 1\\NetBeans Projects\\PruebaSwing\\target\\logousuario.png"));
         iconousuario.setBounds(550, 30, 50, 50);
         base.add(iconousuario);
         iconousuario.setVisible(true);
